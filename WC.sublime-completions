@@ -3,6 +3,7 @@
 	"completions":
 	[
 		"php",
+		// woocommerce-functions.php
 	    { "trigger": "woocommerce_template_redirect", "contents": "woocommerce_template_redirect()" },
 	    { "trigger": "woocommerce_nav_menu_item_classes", "contents": "woocommerce_nav_menu_item_classes( ${1:$menu_items}, ${2:args} )" },
 	    { "trigger": "woocommerce_list_pages", "contents": "woocommerce_list_pages( ${1:pages} )" },
@@ -28,6 +29,8 @@
 	    { "trigger": "woocommerce_price_filter", "contents": "woocommerce_price_filter( ${1:filtered_posts} )" },
 	    { "trigger": "woocommerce_save_password", "contents": "woocommerce_save_password()" },
 	    { "trigger": "woocommerce_save_address", "contents": "woocommerce_save_address()" },
+
+	    // woocommerce-core-functions.php
 	    { "trigger": "get_product", "contents": "get_product( ${1:the_product = false}, ${2:args = array()} )" },
 	    { "trigger": "woocommerce_get_product_ids_on_sale", "contents": "woocommerce_get_product_ids_on_sale()" },
 	    { "trigger": "woocommerce_sanitize_taxonomy_name", "contents": "woocommerce_sanitize_taxonomy_name( ${1:taxonomy} )" },
