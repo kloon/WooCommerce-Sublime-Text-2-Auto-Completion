@@ -1,7 +1,7 @@
 WooCommerce Sublime Text 2 Autocompletions
 ==========================================
 
-A Sublime Text 2 library  that adds auto-completion capability for WooCommerce 2.2+ functions.
+A Sublime Text 2 library  that adds auto-completion capability for WooCommerce 2.3+ functions.
 
 ### Features
 
