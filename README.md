@@ -1,17 +1,17 @@
 WooCommerce Sublime Text 2 Autocompletions
 ==========================================
 
-A Sublime Text 2 library  that adds auto-completion capability for WooCommerce 2.3+ functions.
+A Sublime Text 2 library  that adds auto-completion capability for WooCommerce 2.4+ functions.
 
 ### Features
 
 Autocomplete for:
 
-    WC version : 2.3
+    WC version : 2.4
 
-    Functions          : 273
-    Actions            : 367
-    Filters            : 745
+    Functions          : 289
+    Actions            : 398
+    Filters            : 823
     Snippets           :   7
 
 ### Tip
@@ -30,6 +30,10 @@ If you have any suggestion or you want to help, just fork this repository, make 
 If you can't code, simply open a [new issue](https://github.com/kloon/WooCommerce-Sublime-Text-2-Auto-Completion/issues) and we'll do our best to help you!
 
 ## Changelog ##
+
+### 2015-08-11
+
+* Updated for WooCommerce 2.4
 
 ### 2015-03-09
 
