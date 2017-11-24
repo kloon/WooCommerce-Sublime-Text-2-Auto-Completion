@@ -1,26 +1,22 @@
 WooCommerce Sublime Text 2 Autocompletions
 ==========================================
 
-A Sublime Text 2 library  that adds auto-completion capability for WooCommerce 2.4+ functions.
+A Sublime Text 2 and 3 library that adds auto-completion capability for WooCommerce 3.2+ functions.
 
 ### Features
 
 Autocomplete for:
 
-    WC version : 2.4
+    WooCommerce version: 3.2
 
-    Functions          : 289
-    Actions            : 398
-    Filters            : 823
-    Snippets           :   7
+    Functions : 522
+    Actions   : 496
+    Filters   : 496
+    Constants : 22
+    Snippets  : 7
 
-### Tip
 
-Sublime won't autocomplete PHP files when there is no closing `?>` tags , so in "Preferences-->Settings-User" add this snippet:
-
-    "auto_complete_selector": "source, text",
-
-###  Install instructions
+### Install instructions
 
 Just install via package control (WooCommerce Autocomplete) or clone into your sublime-text-2 package directory.
 

@@ -1,0 +1,93 @@
+{
+    "scope": "source.php - comment - constant.other.class - entity - meta.catch - meta.class - meta.function.arguments - meta.use - string - support.class - variable.other, source.php meta.class.php meta.block.php meta.function.php meta.block.php - comment - constant.other.class - entity - meta.catch - meta.function.arguments - meta.use - string - support.class - variable.other",
+    "completions": [
+        {
+            "trigger": "WC_PLUGIN_FILE",
+            "contents": "WC_PLUGIN_FILE"
+        },
+        {
+            "trigger": "WC_DOING_AJAX",
+            "contents": "WC_DOING_AJAX"
+        },
+        {
+            "trigger": "WOOCOMMERCE_CART",
+            "contents": "WOOCOMMERCE_CART"
+        },
+        {
+            "trigger": "WOOCOMMERCE_CHECKOUT",
+            "contents": "WOOCOMMERCE_CHECKOUT"
+        },
+        {
+            "trigger": "WC_MAX_LINKED_VARIATIONS",
+            "contents": "WC_MAX_LINKED_VARIATIONS"
+        },
+        {
+            "trigger": "WC_UPDATING",
+            "contents": "WC_UPDATING"
+        },
+        {
+            "trigger": "WC_INSTALLING",
+            "contents": "WC_INSTALLING"
+        },
+        {
+            "trigger": "WC_API_REQUEST",
+            "contents": "WC_API_REQUEST"
+        },
+        {
+            "trigger": "WC_API_REQUEST_VERSION",
+            "contents": "WC_API_REQUEST_VERSION"
+        },
+        {
+            "trigger": "WC_ABSPATH",
+            "contents": "WC_ABSPATH"
+        },
+        {
+            "trigger": "WC_PLUGIN_BASENAME",
+            "contents": "WC_PLUGIN_BASENAME"
+        },
+        {
+            "trigger": "WC_VERSION",
+            "contents": "WC_VERSION"
+        },
+        {
+            "trigger": "WOOCOMMERCE_VERSION",
+            "contents": "WOOCOMMERCE_VERSION"
+        },
+        {
+            "trigger": "WC_ROUNDING_PRECISION",
+            "contents": "WC_ROUNDING_PRECISION"
+        },
+        {
+            "trigger": "WC_DISCOUNT_ROUNDING_MODE",
+            "contents": "WC_DISCOUNT_ROUNDING_MODE"
+        },
+        {
+            "trigger": "WC_TAX_ROUNDING_MODE",
+            "contents": "WC_TAX_ROUNDING_MODE"
+        },
+        {
+            "trigger": "WC_DELIMITER",
+            "contents": "WC_DELIMITER"
+        },
+        {
+            "trigger": "WC_LOG_DIR",
+            "contents": "WC_LOG_DIR"
+        },
+        {
+            "trigger": "WC_SESSION_CACHE_GROUP",
+            "contents": "WC_SESSION_CACHE_GROUP"
+        },
+        {
+            "trigger": "WC_TEMPLATE_DEBUG_MODE",
+            "contents": "WC_TEMPLATE_DEBUG_MODE"
+        },
+        {
+            "trigger": "WC_TEMPLATE_PATH",
+            "contents": "WC_TEMPLATE_PATH"
+        },
+        {
+            "trigger": "WC_USE_TRANSACTIONS",
+            "contents": "WC_USE_TRANSACTIONS"
+        }
+    ]
+}
